@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mohit Jangra
-Skills: HTML5, CSS3, javaScript, jQuery, Bootstrap
-Email: moet9928@gmail.com
-{{/user}}
